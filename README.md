@@ -59,6 +59,12 @@
 <div align="center">
 
 ![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P1.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P2.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P3.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P4.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P5.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P6.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P7.jpg)
 
 </div>
 
