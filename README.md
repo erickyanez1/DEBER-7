@@ -34,7 +34,7 @@
 - Capítulo 14
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Cap14_MT_P1.jpg)
   
 </div>
 
