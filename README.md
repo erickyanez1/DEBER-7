@@ -47,6 +47,10 @@
 <div align="center">
 
 
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap13_P1.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap13_P2.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap13_P3.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap13_P4.jpg)
 
 
 </div>
