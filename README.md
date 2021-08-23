@@ -58,7 +58,7 @@
 - Capítulo 14
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P1.jpg)
 
 </div>
 
