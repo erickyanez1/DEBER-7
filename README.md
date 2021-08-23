@@ -35,6 +35,9 @@
 <div align="center">
 
 ![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Cap14_MT_P1.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Cap14_MT_P2.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Cap14_MT_P3.jpg)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Cap14_MT_P4.jpg)
   
 </div>
 
