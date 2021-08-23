@@ -1,6 +1,6 @@
 <div align="center">
 
-# DEBER 6 - CAPÍTULOS 13 - 14
+# DEBER 7 - CAPÍTULOS 13 - 14
   
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/espe.png) 
 
