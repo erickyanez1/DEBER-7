@@ -80,7 +80,7 @@
 Se concluye que:
 
 - La.
-- Lo.
+- Para las inductancias en serie o en paralelo, la inductancia equivalente se determina con las mismas reglas que se usaron para la resistencia. Para un circuito en serie las inductancias se van a sumar y para un circuito en paralelo se suman todos los términos 1/L y luego se toma el recíproco de la suma
 - E.
 
 
