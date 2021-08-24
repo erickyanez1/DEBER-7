@@ -16,11 +16,13 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - os.
+  - Comprender el concepto de inductancia y deducir experimentalmente de qué parámetros depende, tales como: número de vueltas, permeabilidad magnética del núcleo y su sección transversal.
  
  **OBJETIVOS ESPECÍFICOS**
-  - Apl.
-  - A.
+  - Determinar el inductor equivalente para una conexión en serie y en paralelo de inductores.
+  - Comprobar las expresiones de la inductancia equivalente para conexiones de inductores en serie y paralelo.
+  - Comprender cómo las corrientes eléctricas variantes en una bobina pueden inducircorrientes variantes en otra bobina que no está conectada a la primera.
+  - Definir y comprender lo que es una conexión en serie y una conexión en paralelo de inductores, así como la relación con la inductancia mutua en la conexión en serie.
   
 # **2. MARCO TEÓRICO**
 
@@ -111,7 +113,7 @@
 
 Se concluye que:
 
-- La.
+- La inductancia (medida en henrios H) tienen su corriente moviéndose de forma circular, mientras más campo magnético haya quiere decir que tenemos más espiras cerca y por tanto, mayor corriente; para determinar la inductancia hay que seguir la fórmula establecida la cuál dicta que inductancia es igual al número de espiras al cuadrado multiplicado por la permeabilidad y su área de sección (m^2), todo eso entre la longitud de lineas de flujo (m).
 - Para las inductancias en serie o en paralelo, la inductancia equivalente se determina con las mismas reglas que se usaron para la resistencia. Para un circuito en serie las inductancias se van a sumar y para un circuito en paralelo se suman todos los términos 1/L y luego se toma el recíproco de la suma.
 - Cuando se suministra potencia a un inductor, la energía se almacena en su campo magnético. Cuando el campo se colapsa, esta energía retorna al circuito.
 
