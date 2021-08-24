@@ -27,6 +27,12 @@
 - Capítulo 13
 <div align="center">
 
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/mapa_1_cap13.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/mapa_2_cap13.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/mapa_3_cap13.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/mapa_4_cap13.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/mapa_5_cap13.png)
+
 
 </div>
 
@@ -49,7 +55,19 @@
 - Capítulo 13
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_1.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_3.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_5.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_7.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_9.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_11.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_13.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_15_a.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_15_b.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_15_c.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_17_19.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_21_a.png)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/ejer_cap13_21_b.png)
 ![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap13_P1.jpg)
 ![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap13_P2.jpg)
 ![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap13_P3.jpg)
