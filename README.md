@@ -86,7 +86,21 @@
 ![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P5.jpg)
 ![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P6.jpg)
 ![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/Ejer_Cap14_P7.jpg)
-
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/9.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/9-1.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/11.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/13-1.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/13-2.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/15-1.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/15-2.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/15-3.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/15-4.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/17.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/21.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/23-1.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/23-2.PNG)
+![](https://github.com/erickyanez1/DEBER-7/blob/main/IMG/27.PNG)
+  
 </div>
 
 # **4. VÍDEO**
